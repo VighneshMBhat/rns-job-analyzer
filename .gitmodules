@@ -1,0 +1,18 @@
+[submodule "frontend-service"]
+	path = frontend-service
+	url = https://github.com/VighneshMBhat/rns-job-analyzer-frontend-service.git
+[submodule "Authentication-Service"]
+	path = Authentication-Service
+	url = https://github.com/VighneshMBhat/rns-job-analyzer-authentication-service.git
+[submodule "github_service"]
+	path = github_service
+	url = https://github.com/VighneshMBhat/rns-job-analyzer-github-service.git
+[submodule "skillgap_service"]
+	path = skillgap_service
+	url = https://github.com/VighneshMBhat/rns-job-analyzer-skillgap-services.git
+[submodule "trend_skill_service"]
+	path = trend_skill_service
+	url = https://github.com/VighneshMBhat/rns-job-analyzer-trend-skill-service.git
+[submodule "admin-service"]
+	path = admin-service
+	url = https://github.com/VighneshMBhat/rns-job-analyzer-admin-services.git
