@@ -1,7 +1,7 @@
-# RNS Job Analyzer
+# Talento Vision
 
 ## Overview
-The **RNS Job Analyzer** is a sophisticated, microservice-based platform designing to bridge the gap between job seekers' skills and current market demands. By leveraging advanced AI (Gemini 2.5 Pro, Groq) and real-time data analysis, it provides users with actionable insights, personalized skill gap reports, and market trend visualization.
+**Talento Vision** is a sophisticated, microservice-based platform designing to bridge the gap between job seekers' skills and current market demands. By leveraging advanced AI (Gemini 2.5 Pro, Groq) and real-time data analysis, it provides users with actionable insights, personalized skill gap reports, and market trend visualization.
 
 **Note:** This is the parent repository functioning as a central index for the entire microservice architecture. Each service operates as an independent repository with its own deployment lifecycle.
 
